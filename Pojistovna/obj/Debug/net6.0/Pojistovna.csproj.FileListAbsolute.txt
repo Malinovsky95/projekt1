@@ -1,0 +1,15 @@
+C:\Users\malin\OneDrive\Plocha\OOP\Pojistovna\Pojistovna\bin\Debug\net6.0\Pojistovna.exe
+C:\Users\malin\OneDrive\Plocha\OOP\Pojistovna\Pojistovna\bin\Debug\net6.0\Pojistovna.deps.json
+C:\Users\malin\OneDrive\Plocha\OOP\Pojistovna\Pojistovna\bin\Debug\net6.0\Pojistovna.runtimeconfig.json
+C:\Users\malin\OneDrive\Plocha\OOP\Pojistovna\Pojistovna\bin\Debug\net6.0\Pojistovna.dll
+C:\Users\malin\OneDrive\Plocha\OOP\Pojistovna\Pojistovna\bin\Debug\net6.0\Pojistovna.pdb
+C:\Users\malin\OneDrive\Plocha\OOP\Pojistovna\Pojistovna\obj\Debug\net6.0\Pojistovna.csproj.AssemblyReference.cache
+C:\Users\malin\OneDrive\Plocha\OOP\Pojistovna\Pojistovna\obj\Debug\net6.0\Pojistovna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malin\OneDrive\Plocha\OOP\Pojistovna\Pojistovna\obj\Debug\net6.0\Pojistovna.AssemblyInfoInputs.cache
+C:\Users\malin\OneDrive\Plocha\OOP\Pojistovna\Pojistovna\obj\Debug\net6.0\Pojistovna.AssemblyInfo.cs
+C:\Users\malin\OneDrive\Plocha\OOP\Pojistovna\Pojistovna\obj\Debug\net6.0\Pojistovna.csproj.CoreCompileInputs.cache
+C:\Users\malin\OneDrive\Plocha\OOP\Pojistovna\Pojistovna\obj\Debug\net6.0\Pojistovna.dll
+C:\Users\malin\OneDrive\Plocha\OOP\Pojistovna\Pojistovna\obj\Debug\net6.0\refint\Pojistovna.dll
+C:\Users\malin\OneDrive\Plocha\OOP\Pojistovna\Pojistovna\obj\Debug\net6.0\Pojistovna.pdb
+C:\Users\malin\OneDrive\Plocha\OOP\Pojistovna\Pojistovna\obj\Debug\net6.0\Pojistovna.genruntimeconfig.cache
+C:\Users\malin\OneDrive\Plocha\OOP\Pojistovna\Pojistovna\obj\Debug\net6.0\ref\Pojistovna.dll
